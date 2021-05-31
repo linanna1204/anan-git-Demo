@@ -4,4 +4,4 @@ hello linanan! hello git!
 hello linanan! hello git! 22222222222
 hello linanan! hello git!
 我是蔺安安
-这个是修改过后得内容
+这个是在hos-fix修改后得内容
